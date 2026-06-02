@@ -1,0 +1,17 @@
+{
+  "itemGroup.factory": "Factory",
+  "block.factory.factory_builder": "Блок постройки: Завод",
+  "block.factory.oil_rig_builder": "Блок постройки: Нефтевышка",
+  "block.factory.power_plant_builder": "Блок постройки: Электростанция",
+  "block.factory.quarry_builder": "Блок постройки: Карьер",
+  "block.factory.warehouse_builder": "Блок постройки: Склад",
+  "block.factory.greenhouse_builder": "Блок постройки: Теплица",
+  "item.factory.steel_ingot": "Стальной слиток",
+  "item.factory.crude_oil": "Канистра сырой нефти",
+  "item.factory.machine_parts": "Детали механизма",
+  "item.factory.copper_wire": "Медная проводка",
+  "item.factory.stone_crate": "Ящик камня",
+  "item.factory.supply_crate": "Ящик припасов",
+  "item.factory.fertilizer_bag": "Мешок удобрений",
+  "item.factory.energy_cell": "Энергоячейка"
+}

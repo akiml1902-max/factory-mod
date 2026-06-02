@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "factory:block/greenhouse_builder"
+    }
+  }
+}

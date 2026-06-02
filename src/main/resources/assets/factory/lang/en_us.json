@@ -1,0 +1,17 @@
+{
+  "itemGroup.factory": "Factory",
+  "block.factory.factory_builder": "Factory Builder Block",
+  "block.factory.oil_rig_builder": "Oil Rig Builder Block",
+  "block.factory.power_plant_builder": "Power Plant Builder Block",
+  "block.factory.quarry_builder": "Quarry Builder Block",
+  "block.factory.warehouse_builder": "Warehouse Builder Block",
+  "block.factory.greenhouse_builder": "Greenhouse Builder Block",
+  "item.factory.steel_ingot": "Steel Ingot",
+  "item.factory.crude_oil": "Crude Oil Canister",
+  "item.factory.machine_parts": "Machine Parts",
+  "item.factory.copper_wire": "Copper Wire",
+  "item.factory.stone_crate": "Stone Crate",
+  "item.factory.supply_crate": "Supply Crate",
+  "item.factory.fertilizer_bag": "Fertilizer Bag",
+  "item.factory.energy_cell": "Energy Cell"
+}

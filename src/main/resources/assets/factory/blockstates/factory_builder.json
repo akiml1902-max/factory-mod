@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "factory:block/factory_builder"
+    }
+  }
+}

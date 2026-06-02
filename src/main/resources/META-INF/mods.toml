@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="factory"
+version="1.0.0"
+displayName="Factory"
+authors="ChatGPT"
+description='''
+Creative-only building blocks that instantly construct small factories, oil rigs, quarries, warehouses, power plants and greenhouses. Each finished building has a chest that receives supplies over time.
+'''
+
+[[dependencies.factory]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.factory]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

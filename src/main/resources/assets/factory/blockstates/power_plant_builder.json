@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "factory:block/power_plant_builder"
+    }
+  }
+}
